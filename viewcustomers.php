@@ -65,13 +65,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-73a13f17bce1.js"></script>
   
 
-  <title>Basic-Banking-System-/README.md at main · Maitryee-Choudhary/Basic-Banking-System-</title>
+  <title>Basic-Banking-System-/viewcustomers.php at main · Maitryee-Choudhary/Basic-Banking-System-</title>
 
 
 
     
 
-  <meta name="request-id" content="760B:085A:78E7B0:93AE71:6327007E" data-turbo-transient="true" /><meta name="html-safe-nonce" content="9f3201256cec4794ea83a8bf32ea0a72561eb2979abef92c36da63fb62837c5f" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9NYWl0cnllZS1DaG91ZGhhcnkvQmFzaWMtQmFua2luZy1TeXN0ZW0tIiwicmVxdWVzdF9pZCI6Ijc2MEI6MDg1QTo3OEU3QjA6OTNBRTcxOjYzMjcwMDdFIiwidmlzaXRvcl9pZCI6IjE0MTgxODcwOTE3MjIzMDM4MjEiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="1003a4bdbc18ac8cdff9c1cc38ef38ecbb35252b46ce0dc7e29bf8706dd400d4" data-turbo-transient="true" />
+  <meta name="request-id" content="760E:0853:5D5626:78292A:63270470" data-turbo-transient="true" /><meta name="html-safe-nonce" content="9f3201256cec4794ea83a8bf32ea0a72561eb2979abef92c36da63fb62837c5f" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9NYWl0cnllZS1DaG91ZGhhcnkvQmFzaWMtQmFua2luZy1TeXN0ZW0tL3RyZWUvbWFpbi9zcGFya3MlMjBmb3VuZGF0aW9uIiwicmVxdWVzdF9pZCI6Ijc2MEU6MDg1Mzo1RDU2MjY6NzgyOTJBOjYzMjcwNDcwIiwidmlzaXRvcl9pZCI6IjE0MTgxODcwOTE3MjIzMDM4MjEiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="05a61679cd3173fa3f1bd5e4cd06df5cf81ce566dca93d3d3d1a158136a6e6ce" data-turbo-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:323038947" data-turbo-transient>
 
@@ -104,16 +104,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="The Sparks Foundation Internship Project - Basic Banking System - Basic-Banking-System-/README.md at main · Maitryee-Choudhary/Basic-Banking-System-">
+      <meta name="description" content="The Sparks Foundation Internship Project - Basic Banking System - Basic-Banking-System-/viewcustomers.php at main · Maitryee-Choudhary/Basic-Banking-System-">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f49651c51ab6d4cb337e420bf2283c37db77900f9fa44d1ee4112f5d5680ca55/Maitryee-Choudhary/Basic-Banking-System-" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Basic-Banking-System-/README.md at main · Maitryee-Choudhary/Basic-Banking-System-" /><meta name="twitter:description" content="The Sparks Foundation Internship Project - Basic Banking System - Basic-Banking-System-/README.md at main · Maitryee-Choudhary/Basic-Banking-System-" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/f49651c51ab6d4cb337e420bf2283c37db77900f9fa44d1ee4112f5d5680ca55/Maitryee-Choudhary/Basic-Banking-System-" /><meta property="og:image:alt" content="The Sparks Foundation Internship Project - Basic Banking System - Basic-Banking-System-/README.md at main · Maitryee-Choudhary/Basic-Banking-System-" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Basic-Banking-System-/README.md at main · Maitryee-Choudhary/Basic-Banking-System-" /><meta property="og:url" content="https://github.com/Maitryee-Choudhary/Basic-Banking-System-" /><meta property="og:description" content="The Sparks Foundation Internship Project - Basic Banking System - Basic-Banking-System-/README.md at main · Maitryee-Choudhary/Basic-Banking-System-" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f49651c51ab6d4cb337e420bf2283c37db77900f9fa44d1ee4112f5d5680ca55/Maitryee-Choudhary/Basic-Banking-System-" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Basic-Banking-System-/viewcustomers.php at main · Maitryee-Choudhary/Basic-Banking-System-" /><meta name="twitter:description" content="The Sparks Foundation Internship Project - Basic Banking System - Basic-Banking-System-/viewcustomers.php at main · Maitryee-Choudhary/Basic-Banking-System-" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/f49651c51ab6d4cb337e420bf2283c37db77900f9fa44d1ee4112f5d5680ca55/Maitryee-Choudhary/Basic-Banking-System-" /><meta property="og:image:alt" content="The Sparks Foundation Internship Project - Basic Banking System - Basic-Banking-System-/viewcustomers.php at main · Maitryee-Choudhary/Basic-Banking-System-" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Basic-Banking-System-/viewcustomers.php at main · Maitryee-Choudhary/Basic-Banking-System-" /><meta property="og:url" content="https://github.com/Maitryee-Choudhary/Basic-Banking-System-" /><meta property="og:description" content="The Sparks Foundation Internship Project - Basic Banking System - Basic-Banking-System-/viewcustomers.php at main · Maitryee-Choudhary/Basic-Banking-System-" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/113304090/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTMzMDQwOTAsInMiOjk1NDcyMTI5OCwiYyI6MTEzODY1MzQ5OCwidCI6MTY2MzUwMDQxNH0=--9f0e858c95d1cb54f120387ea7ab634c0548ea1861094bad980bb5c6c450fc7b" data-refresh-url="/_alive" data-session-id="72032031e1f29577bda2fdf0db78236e926cfa42d9dea141a59bc0d3cbd092d8">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/113304090/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTMzMDQwOTAsInMiOjk1NDcyMTI5OCwiYyI6NDExODY4MjI1LCJ0IjoxNjYzNTAxNDI4fQ==--21414577040764982fc2343c0b5d7ebecd6dfd2bc24c45b025e5b6b4a58266c3" data-refresh-url="/_alive" data-session-id="72032031e1f29577bda2fdf0db78236e926cfa42d9dea141a59bc0d3cbd092d8">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -142,7 +142,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -233,7 +233,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="bScHdkMNbmKfpd7n5yRGCEBcWHeLG_oQH4himPkDXRWvniNhrXWqs2sTlkcXfWXbfoErZPynvrEtqilmYCrpjg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="jr7cS9aLKieIbJSZS8bTCKcInTTmM9kXJBc9_mmncPtMB_hcOPPu9nza3Dm7n_DbmdXuJ5GPnbYWNXYA8I7EYA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -433,7 +433,7 @@
     <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;shakthi200326&quot;,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="e358dd319d0309e8b72f075a694c2f3422ad0fcd9b8834bfaf0d72e087c838c6" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;shakthi200326&quot;,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="6aca6e8ae7f9f6b1a05449bb820a2ec6b34c64bd77433f1f3ff746c5a73687da" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -441,7 +441,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/113304090?s=40&amp;v=4" width="20" height="20" alt="@shakthi200326" />
       shakthi200326
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="F_zQRMFYZUrBMWSZOy7dvedLtgEpbsZ1OV15p4HK633UHx2S7USxNawdOW-OU2_buFqg7FKPNkLhZNXRUc5JXg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gLrElZZgcovsmOzEsQd6WLQwH822B9_f0RoTWFCtNVJDWQlDunym9IG0sTIEesg-6yEJIM3mL-gJI78ugKmXcQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -478,7 +478,7 @@
 <notification-indicator
   
   class="js-socket-channel"
-  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTEzMzA0MDkwIiwidCI6MTY2MzUwMDQxNH0=--5b8ac863448708aa454e16ffc956a686520a9c490656a37eff589f09aa845797"
+  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTEzMzA0MDkwIiwidCI6MTY2MzUwMTQyOH0=--23e03bce745034b46050d8cbcc6bf4fb2495b8ef06130d1f342ce541a3bca432"
   data-indicator-mode="none"
   data-tooltip-global="You have unread notifications"
   data-tooltip-unavailable="Notifications are unavailable at the moment."
@@ -639,7 +639,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md
+      return-to=/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php
       user-id="113304090"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1601,7 +1601,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="e044723fee411c1b63a49606d65c8fc274f71b883e4e8f5d44235312c1ee22de" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="60d6fdb93e52fc2fd9c5d7c10fab8c43a746b0c4990d7b7c88856651b97cd61c" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1653,7 +1653,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LtfzXGbFT2hR_1WfmCm6BaRuN-eD1WGLq5rMFEVF8x3gsJU49Osf7UCTbIUw9j1KDM3PWiqpSTN-m2mtfJxOBg" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vWpO5i26bSWI9GjOkVM2eIB2Jy8RDSpNPY5UfoIoVptzDSiCv5Q9oJmYUdQ5jLE3KNXfkrhxAvXoj_HHu_HrgA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="323038947">
 
@@ -1771,7 +1771,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="COZBtsnAd2rKdIwYF-K82I2gmHxr4KSDiULrcdl1tBLGgSfSW-4n79sYtQK_PTuXJQNgwcKcjDtcQ07I4KwJCQ" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Woy0y1yLOAlDN043VTFqsDBr-TZZ9bGu0hXcDPmGu7WU69KvzqVojFJbdy397u3_mMgBi_CJmRYHFHm1wF8Grg" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="323038947">
 
@@ -1918,7 +1918,7 @@
   <li>
       
   <div data-view-component="true" class="BtnGroup">
-        <a href="/Maitryee-Choudhary/Basic-Banking-System-/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="82269a775391bfdb5cd34c467b8817083679a14c741122703a8fee1261deb643" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Maitryee-Choudhary/Basic-Banking-System-" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a href="/Maitryee-Choudhary/Basic-Banking-System-/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="bc4885955710073764359de8ab81ab53224e796a07518d5105598ba25a99782b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Maitryee-Choudhary/Basic-Banking-System-" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="34" data-view-component="true" class="Counter">34</span>
@@ -1936,13 +1936,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3f050f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-011fae">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-3f050f"
+        id="filter-menu-011fae"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1983,18 +1983,18 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container on BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Maitryee-Choudhary/Basic-Banking-System-/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GhfJs9oNjYcVpjHSLqk3e8O5Sf3Q9Dv69A0XgwP-YZTwx98gvlUBMkkJ_MKMyJHQPK6jIadnLhS7KkwBPM2r_g" autocomplete="off" />
-        <input type="hidden" value="CTrMrBa6ltQPhgDospQvQOMNc2tYKFUjaxOPLyHFJMLj6to_cuIaYVMpzfgQ9YnrHBqZty-7QM0kNNStHvbuqA" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Maitryee-Choudhary/Basic-Banking-System-/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="shfTK1C0-QVgqXFMM9fJPBmqlx3trckm9IG5LDHTlWRYx8W4NOx1sDwGvFyRtm-X5r19wZo-3Mi7puKuDuBfDg" autocomplete="off" />
+        <input type="hidden" value="9OYWVyGrWxPvtjFWFK9oYeR8oZPNuUR-yIa4eZpXBgIeNgDERfPXprMZ_Ea2zs7KG2tLT7oqUZCHoeP7pWTMaA" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="21bc4baf82b0e428863e2ba591a792b261870eced9c421aa080b2bdbce6cc64e" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (11)" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="15c4e199d2c1d6adab54ab17b955c0b5de406dcef4b6ba3d8dbfaf767541b4ed" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (11)" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="11 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="11" data-view-component="true" class="Counter js-social-count">11</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Maitryee-Choudhary/Basic-Banking-System-/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AWWQyXpJKKZ-eWb3bLD92ZoCSfcx1ha6-8ESFC7cyYTKNvAYIT5xIeeFj_-hVeXNK2kukootmTwNWXDzq-Mt_w" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Maitryee-Choudhary/Basic-Banking-System-/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VHOynVQneDQ-zC-Qf3YhpfpumVctD-Dxzz6wWe21WXKfINJMD1Ahs6cwxpiykzmxSwX-Mpb0b3c5ptK-aIq9CQ" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="b259c6775df8a13f7876a5e9405adf410c2e5c4e7e6103c0f4c75967bce11361" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (11)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="c54a291b03689b8c9dc88be38514ed7c90b72c8d9509aee1a78c5a3158192339" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (11)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -2012,13 +2012,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b86d34">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7017e6">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b86d34"
+        id="filter-menu-7017e6"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2209,7 +2209,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Maitryee-Choudhary/Basic-Banking-System-/blob/379a9e99cc7ed0a8b7126241847580dbd6a9b619/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Maitryee-Choudhary/Basic-Banking-System-/blob/379a9e99cc7ed0a8b7126241847580dbd6a9b619/sparks%20foundation/viewcustomers.php">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2293,7 +2293,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/{{ urlEncodedRefName }}/sparks%20foundation/viewcustomers.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2333,7 +2333,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/{{ urlEncodedRefName }}/sparks%20foundation/viewcustomers.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2364,7 +2364,48 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Maitryee-Choudhary/Basic-Banking-System-"><span>Basic-Banking-System-</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Maitryee-Choudhary/Basic-Banking-System-"><span>Basic-Banking-System-</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Maitryee-Choudhary/Basic-Banking-System-/tree/main/sparks%20foundation"><span>sparks foundation</span></a></span><span class="separator">/</span><strong class="final-path">viewcustomers.php</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:323038947,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;PHP&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="3351614e600099b5864b0d65898799650e5c5d7ff08c76df33ccf24ea5dfee1c" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/Maitryee-Choudhary/Basic-Banking-System-/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2375,7 +2416,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="414d04500fe3c692de28ad67ccfc9f8e8b0a4bc183157d12e7c872a34777179f" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Maitryee-Choudhary/Basic-Banking-System-/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="ea9b1878c7a22008fcc88acf16cf5a858dd55959e5bbde16e3b9561aed9d66e5" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Maitryee-Choudhary/Basic-Banking-System-/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2385,15 +2426,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="sparks foundation/viewcustomers.php" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/379a9e99cc7ed0a8b7126241847580dbd6a9b619/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/379a9e99cc7ed0a8b7126241847580dbd6a9b619/sparks%20foundation/viewcustomers.php" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2436,23 +2483,23 @@
             <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Maitryee-Choudhary/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Maitryee-Choudhary">Maitryee-Choudhary</a>
 
               <span class="markdown-title">
-                <a data-pjax="true" title="Update README.md" class="Link--secondary" href="/Maitryee-Choudhary/Basic-Banking-System-/commit/379a9e99cc7ed0a8b7126241847580dbd6a9b619">Update README.md</a>
+                <a data-pjax="true" title="Add files via upload" class="Link--secondary" href="/Maitryee-Choudhary/Basic-Banking-System-/commit/c4b6fa6eb6f854ebd53c105d63bed5d98d3a0d44">Add files via upload</a>
               </span>
           </div>
 
 
           <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/Maitryee-Choudhary/Basic-Banking-System-/commit/379a9e99cc7ed0a8b7126241847580dbd6a9b619/rollup?direction=e" class="d-inline"></include-fragment>
+            <include-fragment accept="text/fragment+html" src="/Maitryee-Choudhary/Basic-Banking-System-/commit/c4b6fa6eb6f854ebd53c105d63bed5d98d3a0d44/rollup?direction=e" class="d-inline"></include-fragment>
           </span>
         </div>
         <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/Maitryee-Choudhary/Basic-Banking-System-/commit/379a9e99cc7ed0a8b7126241847580dbd6a9b619" data-pjax>379a9e9</a>
-            <span itemprop="dateModified"><relative-time datetime="2021-09-30T13:08:41Z" class="no-wrap">Sep 30, 2021</relative-time></span>
+            <a class="text-small text-mono Link--secondary" href="/Maitryee-Choudhary/Basic-Banking-System-/commit/c4b6fa6eb6f854ebd53c105d63bed5d98d3a0d44" data-pjax>c4b6fa6</a>
+            <span itemprop="dateModified"><relative-time datetime="2020-12-20T10:38:41Z" class="no-wrap">Dec 20, 2020</relative-time></span>
           </span>
 
-          <a data-pjax href="/Maitryee-Choudhary/Basic-Banking-System-/commits/main/README.md" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/Maitryee-Choudhary/Basic-Banking-System-/commits/main/sparks%20foundation/viewcustomers.php" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -2478,7 +2525,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/Maitryee-Choudhary/Basic-Banking-System-/contributors-list/main/README.md" preload>
+        src="/Maitryee-Choudhary/Basic-Banking-System-/contributors-list/main/sparks%20foundation/viewcustomers.php" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -2511,75 +2558,34 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}"
-  data-menu-hydro-click-hmac="0899e962e02a4f199c0127ba12d3e478391c4d32a3e191f7ac47bf6dc9346e26"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="99743d0fbd3f1e697a5be663f1723f6b075088a50b6c8946d36414fc573b4ede" href="#basic-banking-system-">Basic-Banking-System-</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="99743d0fbd3f1e697a5be663f1723f6b075088a50b6c8946d36414fc573b4ede" href="#introduction">Introduction</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="99743d0fbd3f1e697a5be663f1723f6b075088a50b6c8946d36414fc573b4ede" href="#technologies-used">Technologies Used:</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="99743d0fbd3f1e697a5be663f1723f6b075088a50b6c8946d36414fc573b4ede" href="#front-end">Front-End:</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="99743d0fbd3f1e697a5be663f1723f6b075088a50b6c8946d36414fc573b4ede" href="#back-end">Back-End:</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="99743d0fbd3f1e697a5be663f1723f6b075088a50b6c8946d36414fc573b4ede" href="#flow-of-the-website">Flow of the website</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      27 lines (20 sloc)
+      200 lines (158 sloc)
       <span class="file-info-divider"></span>
-    1.02 KB
+    4.7 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md?plain=1" data-permalink-href="/Maitryee-Choudhary/Basic-Banking-System-/blob/379a9e99cc7ed0a8b7126241847580dbd6a9b619/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md" data-permalink-href="/Maitryee-Choudhary/Basic-Banking-System-/blob/379a9e99cc7ed0a8b7126241847580dbd6a9b619/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/Maitryee-Choudhary/Basic-Banking-System-/raw/379a9e99cc7ed0a8b7126241847580dbd6a9b619/README.md" href="/Maitryee-Choudhary/Basic-Banking-System-/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/Maitryee-Choudhary/Basic-Banking-System-/blame/379a9e99cc7ed0a8b7126241847580dbd6a9b619/README.md" href="/Maitryee-Choudhary/Basic-Banking-System-/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/Maitryee-Choudhary/Basic-Banking-System-/raw/379a9e99cc7ed0a8b7126241847580dbd6a9b619/sparks%20foundation/viewcustomers.php" href="/Maitryee-Choudhary/Basic-Banking-System-/raw/main/sparks%20foundation/viewcustomers.php" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/Maitryee-Choudhary/Basic-Banking-System-/blame/379a9e99cc7ed0a8b7126241847580dbd6a9b619/sparks%20foundation/viewcustomers.php" href="/Maitryee-Choudhary/Basic-Banking-System-/blame/main/sparks%20foundation/viewcustomers.php" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Maitryee-Choudhary/Basic-Banking-System-/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="h0oUUC6wjVA3rD5LftgOayzCHEZes5CVBfjcFkdpyL22V0L4GH0opKpX2J8slqUXkn6tvMjVdMK6-mk5cAo70A" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Maitryee-Choudhary/Basic-Banking-System-/edit/main/sparks%20foundation/viewcustomers.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uUY3Kig1fANCzn1o6JPKZi-ExfjtbxcUZNl-SJHAgYsN9ZVTkRKwXj_aYYP6cX1sPcB6W_PZ7vRbuKBHFLUHyw" autocomplete="off" />
       <button title="Fork this project and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2589,7 +2595,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Maitryee-Choudhary/Basic-Banking-System-/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ekiLKAAv0yPxvAy5WQi8OWEwcxSLqXa4b1WURo0HM4tLVd2ANuJ212xH6m0LRhdF34zC7h3Pku_QVyFpumTA5g" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Maitryee-Choudhary/Basic-Banking-System-/edit/main/sparks%20foundation/viewcustomers.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="y69zObk7vffvCCxDzk_VMbt__2TwLH_8BpEBI8UdvEJ_HNFAABxxqpIcMKjcrWI7qTtAx-6ahhw58N8sQGg6Ag" autocomplete="off" />
               <button title="Fork this project and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2608,10 +2614,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Maitryee-Choudhary/Basic-Banking-System-/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Maitryee-Choudhary/Basic-Banking-System-/raw/main/sparks%20foundation/viewcustomers.php" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="10f71b3d017de0fdec100acc29bd19bbc0879179b5867aba40ba67db68b86659" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="552c891c1b05afd023ec8fb411c065f6f2a9f4638d747a3c59957a87a9596c13" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2636,7 +2642,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Maitryee-Choudhary/Basic-Banking-System-/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GQplvBSwvO2Y2-JkvZ9wFVYXGiyzU-DEn0Dq1endVzHyHKdzwa2VA4Q95B8xT8ma92Bu2cbsOX1RsjkzCJ4ZTA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Maitryee-Choudhary/Basic-Banking-System-/delete/main/sparks%20foundation/viewcustomers.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wQXaJcKvN3EiUDplS3F30OtgiofABjHVoHZVTcCR0OR_xHXRT7FPnIhXwwSQ9rcFulH6Y8JueLH5oiWft0gx6Q" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2649,7 +2655,7 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary
-          class="js-blob-dropdown-click btn-octicon p-2"
+          class="js-blob-dropdown-click btn-octicon"
           aria-haspopup="true"
           aria-label="possible actions"
           data-test-selector="small-screen-more-options"
@@ -2669,15 +2675,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Maitryee-Choudhary/Basic-Banking-System-/raw/main/README.md">
+            <a class="dropdown-item" href="/Maitryee-Choudhary/Basic-Banking-System-/raw/main/sparks%20foundation/viewcustomers.php">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Maitryee-Choudhary/Basic-Banking-System-/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Maitryee-Choudhary/Basic-Banking-System-/raw/main/sparks%20foundation/viewcustomers.php" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/README.md&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="10f71b3d017de0fdec100acc29bd19bbc0879179b5867aba40ba67db68b86659">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:323038947,&quot;originating_url&quot;:&quot;https://github.com/Maitryee-Choudhary/Basic-Banking-System-/blob/main/sparks%20foundation/viewcustomers.php&quot;,&quot;user_id&quot;:113304090}}" data-hydro-click-hmac="552c891c1b05afd023ec8fb411c065f6f2a9f4638d747a3c59957a87a9596c13">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2700,20 +2706,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Maitryee-Choudhary/Basic-Banking-System-/blame/main/README.md">
+              <a class="dropdown-item" href="/Maitryee-Choudhary/Basic-Banking-System-/blame/main/sparks%20foundation/viewcustomers.php">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Maitryee-Choudhary/Basic-Banking-System-/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/Maitryee-Choudhary/Basic-Banking-System-/edit/main/sparks%20foundation/viewcustomers.php">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:323038947,&quot;actor_id&quot;:113304090,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Maitryee-Choudhary/Basic-Banking-System-/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Maitryee-Choudhary/Basic-Banking-System-/delete/main/sparks%20foundation/viewcustomers.php">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2721,42 +2727,899 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-basic-banking-system-" class="anchor" aria-hidden="true" href="#basic-banking-system-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Basic-Banking-System-</h1>
-<h2 dir="auto"><a id="user-content-introduction" class="anchor" aria-hidden="true" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Introduction</h2>
-<blockquote>
-<p dir="auto">A web application used to transfer money between two users.</p>
-</blockquote>
-<h2 dir="auto"><a id="user-content-technologies-used" class="anchor" aria-hidden="true" href="#technologies-used"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Technologies Used:</h2>
-<blockquote>
-<h3 dir="auto"><a id="user-content-front-end" class="anchor" aria-hidden="true" href="#front-end"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Front-End:</h3>
-</blockquote>
-<ul dir="auto">
-<li>HTML</li>
-<li>CSS</li>
-<li>Bootstrap</li>
-</ul>
-<blockquote>
-<h3 dir="auto"><a id="user-content-back-end" class="anchor" aria-hidden="true" href="#back-end"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Back-End:</h3>
-</blockquote>
-<ul dir="auto">
-<li>PHP</li>
-<li>MYSQL</li>
-</ul>
-<h3 dir="auto"><a id="user-content-flow-of-the-website" class="anchor" aria-hidden="true" href="#flow-of-the-website"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Flow of the website</h3>
-<p dir="auto">Home &gt; View Customer &gt; Select One Customer &gt; Transfer Money &gt; Select Receiver &gt; View Customer</p>
-<p dir="auto">Below are the screenshots of the website</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/67001353/102710492-bc08e200-42d8-11eb-8709-631c7f12afc2.png"><img width="649" alt="1" src="https://user-images.githubusercontent.com/67001353/102710492-bc08e200-42d8-11eb-8709-631c7f12afc2.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/67001353/102710493-bf03d280-42d8-11eb-96e0-85489c36fab0.png"><img width="645" alt="2" src="https://user-images.githubusercontent.com/67001353/102710493-bf03d280-42d8-11eb-96e0-85489c36fab0.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/67001353/102710624-916b5900-42d9-11eb-8a88-169054aa948f.png"><img width="651" alt="3" src="https://user-images.githubusercontent.com/67001353/102710624-916b5900-42d9-11eb-8a88-169054aa948f.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/67001353/102710627-96300d00-42d9-11eb-9021-94c177b0de18.png"><img width="668" alt="5" src="https://user-images.githubusercontent.com/67001353/102710627-96300d00-42d9-11eb-9021-94c177b0de18.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/67001353/102710629-992afd80-42d9-11eb-9dce-f3186e282137.png"><img width="658" alt="4" src="https://user-images.githubusercontent.com/67001353/102710629-992afd80-42d9-11eb-9dce-f3186e282137.png" style="max-width: 100%;"></a></p>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-php  gist-border-0">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="PHP" data-tagsearch-path="sparks foundation/viewcustomers.php">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&lt;!-- jQuery library --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&lt;!-- Popper JS --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&lt;!-- Latest compiled JavaScript --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>preconnect</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>https://fonts.gstatic.com</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;400&amp;display=swap</span>&quot; <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>style</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-ent><span class=pl-c1>*</span></span>{</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>margin</span><span class=pl-kos>:</span><span class=pl-c1>0</span>;</td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>padding</span><span class=pl-kos>:</span><span class=pl-c1>0</span>;</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>box-sizing</span><span class=pl-kos>:</span>border-box;</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">.<span class=pl-c1>navbar</span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>width</span><span class=pl-kos>:</span><span class=pl-c1>100<span class=pl-smi>%</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>white-space</span><span class=pl-kos>:</span>nowrap;</td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>background-color</span><span class=pl-kos>:</span> <span class=pl-pds><span class=pl-kos>#</span>5E11A3</span>;</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">.<span class=pl-c1>main_div</span></td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>width</span><span class=pl-kos>:</span><span class=pl-c1>100<span class=pl-smi>%</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>height</span><span class=pl-kos>:</span><span class=pl-c1>100<span class=pl-smi>vh</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line"> </td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class=pl-ent><span class=pl-c1>*</span></span>{</td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>margin</span><span class=pl-kos>:</span><span class=pl-c1>0</span>;</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>padding</span><span class=pl-kos>:</span><span class=pl-c1>0</span>;</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">   <span class=pl-c1>box-sizing</span><span class=pl-kos>:</span>border-box;</td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">.<span class=pl-c1>display_table</span></td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>width</span><span class=pl-kos>:</span><span class=pl-c1>100<span class=pl-smi>vw</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>height</span><span class=pl-kos>:</span><span class=pl-c1>100<span class=pl-smi>vh</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>display</span><span class=pl-kos>:</span>flex;</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>flex-direction</span><span class=pl-kos>:</span>column;</td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>justify-content</span><span class=pl-kos>:</span> center;</td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>text-align</span><span class=pl-kos>:</span>center;</td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">.<span class=pl-c1>center_div</span></td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>width</span><span class=pl-kos>:</span><span class=pl-c1>90<span class=pl-smi>vw</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>height</span><span class=pl-kos>:</span><span class=pl-c1>80<span class=pl-smi>vh</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>background-image</span><span class=pl-kos>:</span><span class=pl-en>url</span>(<span class=pl-s>&#39;images/2.jpg&#39;</span>);</td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>background-repeat</span><span class=pl-kos>:</span>no-repeat;</td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>background-size</span><span class=pl-kos>:</span><span class=pl-c1>100<span class=pl-smi>%</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>padding</span><span class=pl-kos>:</span><span class=pl-c1>20<span class=pl-smi>px</span></span> <span class=pl-c1>0</span> <span class=pl-c1>0</span> <span class=pl-c1>0</span>;</td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>box-shadow</span><span class=pl-kos>:</span><span class=pl-c1>0</span> <span class=pl-c1>10<span class=pl-smi>px</span></span> <span class=pl-c1>20<span class=pl-smi>px</span></span> <span class=pl-c1>0</span> <span class=pl-en>rgba</span>(<span class=pl-c1>0</span><span class=pl-kos>,</span><span class=pl-c1>0</span><span class=pl-kos>,</span><span class=pl-c1>0</span><span class=pl-kos>,</span><span class=pl-c1>0.03</span>);</td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>border-radius</span><span class=pl-kos>:</span><span class=pl-c1>10<span class=pl-smi>px</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>margin-left</span><span class=pl-kos>:</span><span class=pl-c1>30<span class=pl-smi>px</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>h1</span></td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>font-size</span><span class=pl-kos>:</span><span class=pl-c1>18<span class=pl-smi>px</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>color</span><span class=pl-kos>:</span><span class=pl-pds><span class=pl-kos>#</span>000</span>;</td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>text-align</span><span class=pl-kos>:</span>center;</td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>margin-top</span><span class=pl-kos>:</span><span class=pl-c1>-20<span class=pl-smi>px</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>margin-bottom</span><span class=pl-kos>:</span><span class=pl-c1>20<span class=pl-smi>px</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>table</span></td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>border-collapse</span><span class=pl-kos>:</span>collapse;</td>
+        </tr>
+        <tr>
+          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>background-color</span><span class=pl-kos>:</span>black;</td>
+        </tr>
+        <tr>
+          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>box-shadow</span><span class=pl-kos>:</span><span class=pl-c1>0</span> <span class=pl-c1>10<span class=pl-smi>px</span></span> <span class=pl-c1>20<span class=pl-smi>px</span></span> <span class=pl-c1>0</span> <span class=pl-en>rgba</span>(<span class=pl-c1>0</span><span class=pl-kos>,</span><span class=pl-c1>0</span><span class=pl-kos>,</span><span class=pl-c1>0</span><span class=pl-kos>,</span><span class=pl-c1>0.03</span>);</td>
+        </tr>
+        <tr>
+          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
+          <td id="LC77" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>border-radius</span><span class=pl-kos>:</span> <span class=pl-c1>10<span class=pl-smi>px</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>border-collapse</span><span class=pl-kos>:</span>collapse;</td>
+        </tr>
+        <tr>
+          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>table-layout</span><span class=pl-kos>:</span>fixed;</td>
+        </tr>
+        <tr>
+          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>opacity</span><span class=pl-kos>:</span><span class=pl-c1>0.7</span>;</td>
+        </tr>
+        <tr>
+          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>color</span><span class=pl-kos>:</span><span class=pl-pds><span class=pl-kos>#</span>F7CC1A</span>;</td>
+        </tr>
+        <tr>
+          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>font-weight</span><span class=pl-kos>:</span>bold;</td>
+        </tr>
+        <tr>
+          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>margin</span><span class=pl-kos>:</span>auto;</td>
+        </tr>
+        <tr>
+          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>th</span><span class=pl-kos>,</span><span class=pl-ent>td</span></td>
+        </tr>
+        <tr>
+          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
+          <td id="LC87" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>border</span><span class=pl-kos>:</span><span class=pl-c1>1<span class=pl-smi>px</span></span> solid <span class=pl-pds><span class=pl-kos>#</span>f2f2f2</span>;</td>
+        </tr>
+        <tr>
+          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
+          <td id="LC88" class="blob-code blob-code-inner js-file-line">   <span class=pl-c1>padding</span><span class=pl-kos>:</span><span class=pl-c1>8<span class=pl-smi>px</span></span> <span class=pl-c1>30<span class=pl-smi>px</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
+          <td id="LC89" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>text-align</span><span class=pl-kos>:</span>center;</td>
+        </tr>
+        <tr>
+          <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
+          <td id="LC90" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>opacity</span><span class=pl-kos>:</span><span class=pl-c1>0.9</span>;</td>
+        </tr>
+        <tr>
+          <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
+          <td id="LC91" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>color</span><span class=pl-kos>:</span><span class=pl-pds><span class=pl-kos>#</span>04FB73</span> ; </td>
+        </tr>
+        <tr>
+          <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
+          <td id="LC92" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
+          <td id="LC93" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>th</span>{</td>
+        </tr>
+        <tr>
+          <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
+          <td id="LC94" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>text-transform</span><span class=pl-kos>:</span>uppercase;</td>
+        </tr>
+        <tr>
+          <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
+          <td id="LC95" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>font-weight</span><span class=pl-kos>:</span><span class=pl-c1>500</span>;</td>
+        </tr>
+        <tr>
+          <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
+          <td id="LC96" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
+          <td id="LC97" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>td</span></td>
+        </tr>
+        <tr>
+          <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
+          <td id="LC98" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
+          <td id="LC99" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>font-size</span><span class=pl-kos>:</span><span class=pl-c1>13<span class=pl-smi>px</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
+          <td id="LC100" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L101" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="101"></td>
+          <td id="LC101" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L102" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="102"></td>
+          <td id="LC102" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>style</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L103" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="103"></td>
+          <td id="LC103" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L104" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="104"></td>
+          <td id="LC104" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L105" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="105"></td>
+          <td id="LC105" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>main_div</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L106" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="106"></td>
+          <td id="LC106" class="blob-code blob-code-inner js-file-line"> </td>
+        </tr>
+        <tr>
+          <td id="L107" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="107"></td>
+          <td id="LC107" class="blob-code blob-code-inner js-file-line">     <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar navbar-expand-md</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L108" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="108"></td>
+          <td id="LC108" class="blob-code blob-code-inner js-file-line">   </td>
+        </tr>
+        <tr>
+          <td id="L109" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="109"></td>
+          <td id="LC109" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar-brand font-weight-bold text-white text-center</span>&quot;<span class=pl-kos>&gt;</span>TSF BANK<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L110" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="110"></td>
+          <td id="LC110" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar-toggler text-white </span>&quot; <span class=pl-c1>type</span>=&quot;<span class=pl-s>button</span>&quot; <span class=pl-c1>data-toggle</span>=&quot;<span class=pl-s>collapse</span>&quot; <span class=pl-c1>data-target</span>=&quot;<span class=pl-s>#collapsenavbar</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L111" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="111"></td>
+          <td id="LC111" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>span</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar-toggler-icon</span>&quot; <span class=pl-c1>style</span>=&quot;<span class=pl-s>background:white;</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>span</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L112" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="112"></td>
+          <td id="LC112" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L113" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="113"></td>
+          <td id="LC113" class="blob-code blob-code-inner js-file-line">     </td>
+        </tr>
+        <tr>
+          <td id="L114" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="114"></td>
+          <td id="LC114" class="blob-code blob-code-inner js-file-line">       <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>collapse navbar-collapse text-center</span>&quot; <span class=pl-c1>id</span>=&quot;<span class=pl-s>collapsenavbar</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L115" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="115"></td>
+          <td id="LC115" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>ul</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar-nav ml-auto</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L116" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="116"></td>
+          <td id="LC116" class="blob-code blob-code-inner js-file-line">              <span class=pl-kos>&lt;</span><span class=pl-ent>li</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-item</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L117" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="117"></td>
+          <td id="LC117" class="blob-code blob-code-inner js-file-line">                  <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>index.php</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-link text-white</span>&quot;<span class=pl-kos>&gt;</span>ABOUT<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L118" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="118"></td>
+          <td id="LC118" class="blob-code blob-code-inner js-file-line">              <span class=pl-kos>&lt;</span><span class=pl-ent>li</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-item</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L119" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="119"></td>
+          <td id="LC119" class="blob-code blob-code-inner js-file-line">                  <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>viewcustomers.php</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-link text-white</span>&quot;<span class=pl-kos>&gt;</span>VIEW CUSTOMER<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L120" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="120"></td>
+          <td id="LC120" class="blob-code blob-code-inner js-file-line">              <span class=pl-kos>&lt;</span><span class=pl-ent>li</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-item</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L121" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="121"></td>
+          <td id="LC121" class="blob-code blob-code-inner js-file-line">                  <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>viewcustomers.php</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-link text-white</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L122" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="122"></td>
+          <td id="LC122" class="blob-code blob-code-inner js-file-line">              <span class=pl-kos>&lt;</span><span class=pl-ent>li</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-item</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L123" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="123"></td>
+          <td id="LC123" class="blob-code blob-code-inner js-file-line">                  <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>nav-link text-white</span>&quot;<span class=pl-kos>&gt;</span>CONTACT<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>    </td>
+        </tr>
+        <tr>
+          <td id="L124" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="124"></td>
+          <td id="LC124" class="blob-code blob-code-inner js-file-line">               <span class=pl-kos>&lt;/</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L125" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="125"></td>
+          <td id="LC125" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L126" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="126"></td>
+          <td id="LC126" class="blob-code blob-code-inner js-file-line">     <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L127" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="127"></td>
+          <td id="LC127" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L128" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="128"></td>
+          <td id="LC128" class="blob-code blob-code-inner js-file-line">      </td>
+        </tr>
+        <tr>
+          <td id="L129" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="129"></td>
+          <td id="LC129" class="blob-code blob-code-inner js-file-line">           </td>
+        </tr>
+        <tr>
+          <td id="L130" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="130"></td>
+          <td id="LC130" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>display_table</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L131" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="131"></td>
+          <td id="LC131" class="blob-code blob-code-inner js-file-line">                 <span class=pl-kos>&lt;</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span>Customer Details<span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L132" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="132"></td>
+          <td id="LC132" class="blob-code blob-code-inner js-file-line">                 <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>center_div</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L133" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="133"></td>
+          <td id="LC133" class="blob-code blob-code-inner js-file-line">               <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>table-responsive</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L134" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="134"></td>
+          <td id="LC134" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>table</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L135" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="135"></td>
+          <td id="LC135" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>thead</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L136" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="136"></td>
+          <td id="LC136" class="blob-code blob-code-inner js-file-line">                     <span class=pl-kos>&lt;</span><span class=pl-ent>tr</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L137" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="137"></td>
+          <td id="LC137" class="blob-code blob-code-inner js-file-line">                     <span class=pl-kos>&lt;</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span>ID<span class=pl-kos>&lt;/</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L138" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="138"></td>
+          <td id="LC138" class="blob-code blob-code-inner js-file-line">                      <span class=pl-kos>&lt;</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span>Name<span class=pl-kos>&lt;/</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L139" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="139"></td>
+          <td id="LC139" class="blob-code blob-code-inner js-file-line">                      <span class=pl-kos>&lt;</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span>Email<span class=pl-kos>&lt;/</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L140" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="140"></td>
+          <td id="LC140" class="blob-code blob-code-inner js-file-line">                       <span class=pl-kos>&lt;</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span>Amount<span class=pl-kos>&lt;/</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L141" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="141"></td>
+          <td id="LC141" class="blob-code blob-code-inner js-file-line">                    </td>
+        </tr>
+        <tr>
+          <td id="L142" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="142"></td>
+          <td id="LC142" class="blob-code blob-code-inner js-file-line">                      <span class=pl-kos>&lt;</span><span class=pl-ent>th</span> <span class=pl-c1>colspan</span>=&quot;<span class=pl-s>2</span>&quot;<span class=pl-kos>&gt;</span>operation<span class=pl-kos>&lt;/</span><span class=pl-ent>th</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L143" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="143"></td>
+          <td id="LC143" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;/</span><span class=pl-ent>tr</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L144" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="144"></td>
+          <td id="LC144" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;/</span><span class=pl-ent>thead</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L145" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="145"></td>
+          <td id="LC145" class="blob-code blob-code-inner js-file-line">                   <span class=pl-kos>&lt;</span><span class=pl-ent>tbody</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L146" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="146"></td>
+          <td id="LC146" class="blob-code blob-code-inner js-file-line">                  <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L147" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="147"></td>
+          <td id="LC147" class="blob-code blob-code-inner js-file-line">          <span class=pl-ent>&lt;?php</span></td>
+        </tr>
+        <tr>
+          <td id="L148" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="148"></td>
+          <td id="LC148" class="blob-code blob-code-inner js-file-line">          <span class=pl-k>include</span> <span class=pl-s>&#39;connection.php&#39;</span>;</td>
+        </tr>
+        <tr>
+          <td id="L149" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="149"></td>
+          <td id="LC149" class="blob-code blob-code-inner js-file-line">          <span class=pl-s1><span class=pl-c1>$</span>selectquery</span> = &quot;<span class=pl-s> select * from banksystem</span>&quot;;</td>
+        </tr>
+        <tr>
+          <td id="L150" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="150"></td>
+          <td id="LC150" class="blob-code blob-code-inner js-file-line">          <span class=pl-s1><span class=pl-c1>$</span>query</span> = mysqli_query(<span class=pl-s1><span class=pl-c1>$</span>con</span>,<span class=pl-s1><span class=pl-c1>$</span>selectquery</span>);</td>
+        </tr>
+        <tr>
+          <td id="L151" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="151"></td>
+          <td id="LC151" class="blob-code blob-code-inner js-file-line">          <span class=pl-s1><span class=pl-c1>$</span>numofrows</span> = mysqli_num_rows(<span class=pl-s1><span class=pl-c1>$</span>query</span>);</td>
+        </tr>
+        <tr>
+          <td id="L152" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="152"></td>
+          <td id="LC152" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L153" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="153"></td>
+          <td id="LC153" class="blob-code blob-code-inner js-file-line">           <span class=pl-k>while</span>(<span class=pl-s1><span class=pl-c1>$</span>res</span> = mysqli_fetch_array(<span class=pl-s1><span class=pl-c1>$</span>query</span>))</td>
+        </tr>
+        <tr>
+          <td id="L154" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="154"></td>
+          <td id="LC154" class="blob-code blob-code-inner js-file-line">          {</td>
+        </tr>
+        <tr>
+          <td id="L155" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="155"></td>
+          <td id="LC155" class="blob-code blob-code-inner js-file-line">            <span class=pl-ent>?&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L156" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="156"></td>
+          <td id="LC156" class="blob-code blob-code-inner js-file-line">               <span class=pl-kos>&lt;</span><span class=pl-ent>tr</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L157" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="157"></td>
+          <td id="LC157" class="blob-code blob-code-inner js-file-line">               <span class=pl-kos>&lt;</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span><span class=pl-ent>&lt;?php</span>  <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>res</span>[<span class=pl-s>&#39;ID&#39;</span>]; <span class=pl-ent>?&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L158" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="158"></td>
+          <td id="LC158" class="blob-code blob-code-inner js-file-line">               <span class=pl-kos>&lt;</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span><span class=pl-ent>&lt;?php</span> <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>res</span>[<span class=pl-s>&#39;Name&#39;</span>]; <span class=pl-ent>?&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L159" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="159"></td>
+          <td id="LC159" class="blob-code blob-code-inner js-file-line">               <span class=pl-kos>&lt;</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span><span class=pl-ent>&lt;?php</span> <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>res</span>[<span class=pl-s>&#39;Email&#39;</span>]; <span class=pl-ent>?&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L160" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="160"></td>
+          <td id="LC160" class="blob-code blob-code-inner js-file-line">               <span class=pl-kos>&lt;</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span><span class=pl-ent>&lt;?php</span> <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>res</span>[<span class=pl-s>&#39;Amount&#39;</span>]; <span class=pl-ent>?&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L161" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="161"></td>
+          <td id="LC161" class="blob-code blob-code-inner js-file-line">              <span class=pl-kos>&lt;</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>transfermoney.php?idtransfer=</span><span class=pl-ent>&lt;?php</span>  <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>res</span>[<span class=pl-s>&#39;ID&#39;</span>]; <span class=pl-ent>?&gt;</span>&quot; <span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>i</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s> fa fa-user-circle large</span>&quot; <span class=pl-c1>aria-hidden</span>=&quot;<span class=pl-s>true</span>&quot; <span class=pl-c1>style</span>=&quot;<span class=pl-s>color:#04FB73;</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>i</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>td</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L162" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="162"></td>
+          <td id="LC162" class="blob-code blob-code-inner js-file-line">               <span class=pl-kos>&lt;/</span><span class=pl-ent>tr</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L163" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="163"></td>
+          <td id="LC163" class="blob-code blob-code-inner js-file-line">             <span class=pl-ent>&lt;?php</span></td>
+        </tr>
+        <tr>
+          <td id="L164" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="164"></td>
+          <td id="LC164" class="blob-code blob-code-inner js-file-line">          }</td>
+        </tr>
+        <tr>
+          <td id="L165" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="165"></td>
+          <td id="LC165" class="blob-code blob-code-inner js-file-line">           <span class=pl-ent>?&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L166" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="166"></td>
+          <td id="LC166" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L167" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="167"></td>
+          <td id="LC167" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L168" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="168"></td>
+          <td id="LC168" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>tbody</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L169" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="169"></td>
+          <td id="LC169" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>table</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L170" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="170"></td>
+          <td id="LC170" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L171" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="171"></td>
+          <td id="LC171" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L172" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="172"></td>
+          <td id="LC172" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L173" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="173"></td>
+          <td id="LC173" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L174" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="174"></td>
+          <td id="LC174" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L175" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="175"></td>
+          <td id="LC175" class="blob-code blob-code-inner js-file-line"> <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L176" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="176"></td>
+          <td id="LC176" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L177" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="177"></td>
+          <td id="LC177" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L178" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="178"></td>
+          <td id="LC178" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L179" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="179"></td>
+          <td id="LC179" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L180" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="180"></td>
+          <td id="LC180" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L181" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="181"></td>
+          <td id="LC181" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="L182" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="182"></td>
+          <td id="LC182" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L183" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="183"></td>
+          <td id="LC183" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L184" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="184"></td>
+          <td id="LC184" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L185" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="185"></td>
+          <td id="LC185" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L186" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="186"></td>
+          <td id="LC186" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L187" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="187"></td>
+          <td id="LC187" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L188" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="188"></td>
+          <td id="LC188" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L189" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="189"></td>
+          <td id="LC189" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L190" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="190"></td>
+          <td id="LC190" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L191" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="191"></td>
+          <td id="LC191" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L192" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="192"></td>
+          <td id="LC192" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L193" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="193"></td>
+          <td id="LC193" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L194" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="194"></td>
+          <td id="LC194" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L195" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="195"></td>
+          <td id="LC195" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L196" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="196"></td>
+          <td id="LC196" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L197" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="197"></td>
+          <td id="LC197" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L198" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="198"></td>
+          <td id="LC198" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L199" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="199"></td>
+          <td id="LC199" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Maitryee-Choudhary/Basic-Banking-System-/blame/379a9e99cc7ed0a8b7126241847580dbd6a9b619/sparks%20foundation/viewcustomers.php">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Maitryee-Choudhary/Basic-Banking-System-/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
 
     </div>
 
-  </readme-toc>
+    </div>
+
 
   
 
@@ -2769,6 +3632,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/Maitryee-Choudhary/Basic-Banking-System-/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 </div>
